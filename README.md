@@ -7,6 +7,12 @@ PUTIEN Repo aim to introduces both Culture & Language of Xinghua Area 😇, if y
 ⭕️ Poetry(古诗文)
 
 
-### Culture & Custom
+### History
 ⭕️ Story(民间故事)           
-⭕️ Origin(历史沿革)
+⭕️ Origin(历史沿革)   
+
+### Culture & Custom   
+⭕️ Marriage(婚俗) 
+⭕️ Lantern Festival(元宵节)
+
+### Food
