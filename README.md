@@ -1,6 +1,6 @@
 # PUTIEN
 
-PUTIEN Repo aim to introduces both Culture & Language of Xinghua Area 😇, if you like this repo,please star & communicate with us~ 
+PUTIEN Repo aim to introduce both Culture & Language of Xinghua Area 😇, if you like this repo,please star & communicate with us~ 
 
 ### Language   
 🗣 Popular Terms(日常用语)         
