@@ -16,5 +16,5 @@ PUTIEN Repo aim to introduces both Culture & Language of Xinghua Area 😇, if y
 🏮 Lantern Festival(元宵节)
 
 ### Diet
-🍗 Snack（小吃） 
+🍗 Snack（小吃）       
 🍚 Food（正餐）
